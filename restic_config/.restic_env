@@ -1,2 +1,1 @@
-export RESTIC_REPOSITORY="/root/restic_backup_repo"
-export RESTIC_PASSWORD_FILE="/root/restic_config/restic_password.txt"
+export RESTIC_PASSWORD_FILE="/home/xia1997x-ct/systemd-timers-project-smal/restic_config/restic_password.txt"
